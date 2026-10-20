@@ -71,7 +71,7 @@ ModelImporter:
             inWeight: 0
             outWeight: 0
           - serializedVersion: 3
-            time: 0.83720577
+            time: 0.37252724
             value: 1
             inSlope: 0
             outSlope: 0
@@ -80,7 +80,7 @@ ModelImporter:
             inWeight: 0.33333334
             outWeight: 0.33333334
           - serializedVersion: 3
-            time: 1.3755033
+            time: 0.6113431
             value: 1
             inSlope: 0
             outSlope: 0
@@ -89,16 +89,16 @@ ModelImporter:
             inWeight: 0.33333334
             outWeight: 0.33333334
           - serializedVersion: 3
-            time: 2.4506226
+            time: 0.96
             value: 0
             inSlope: 0
-            outSlope: Infinity
-            tangentMode: 97
+            outSlope: 0
+            tangentMode: 0
             weightedMode: 0
             inWeight: 0
             outWeight: 0
-          preInfinity: 1
-          postInfinity: 1
+          preInfinity: 2
+          postInfinity: 2
           rotationOrder: 4
       - name: IKRFootWeight
         curve:
@@ -114,7 +114,7 @@ ModelImporter:
             inWeight: 0
             outWeight: 0
           - serializedVersion: 3
-            time: 0.8825458
+            time: 0.24905628
             value: 0
             inSlope: 0
             outSlope: 0
@@ -123,7 +123,7 @@ ModelImporter:
             inWeight: 0.33333334
             outWeight: 0.33333334
           - serializedVersion: 3
-            time: 1.8000001
+            time: 0.66482276
             value: 0
             inSlope: 0
             outSlope: 0
@@ -132,16 +132,16 @@ ModelImporter:
             inWeight: 0.33333334
             outWeight: 0.33333334
           - serializedVersion: 3
-            time: 2.4506226
+            time: 0.96
             value: 1
-            inSlope: -0
-            outSlope: -0
+            inSlope: 0
+            outSlope: 0
             tangentMode: 0
             weightedMode: 0
-            inWeight: 0.87075645
+            inWeight: 0
             outWeight: 0
           preInfinity: 1
-          postInfinity: 1
+          postInfinity: 0
           rotationOrder: 4
       events:
       - time: 0.31872225
